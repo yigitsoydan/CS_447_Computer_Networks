@@ -1,0 +1,9 @@
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\bin\Debug\CS447BoomProject.exe.config
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\bin\Debug\CS447BoomProject.exe
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\bin\Debug\CS447BoomProject.pdb
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\obj\Debug\CS447BoomProject.Form1.resources
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\obj\Debug\CS447BoomProject.Properties.Resources.resources
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\obj\Debug\CS447BoomProject.csproj.GenerateResource.Cache
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\obj\Debug\CS447BoomProject.exe
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\obj\Debug\CS447BoomProject.pdb
+C:\Users\Yiğit\Desktop\wsvisualstudio\CS447BoomProject\CS447BoomProject\obj\Debug\CS447BoomProject.csprojResolveAssemblyReference.cache
